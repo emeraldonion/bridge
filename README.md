@@ -24,7 +24,9 @@ Without obfs4proxy:
 
 ### Donate
 
-Emerald Onion is 100% volunteer-run, and 100% of donations go to business administration and insurrance, hardware, bandwidth, and co-location. Please consider becoming a monthly donor using [Github Sponsors](https://github.com/sponsors/emeraldonion)! Other donation methods are available here: [emeraldonion.org/donate](https://emeraldonion.org/donate/)
+Emerald Onion is 100% volunteer-run, and 100% of donations go to business administration and insurrance, hardware, bandwidth, and co-location. Please consider becoming a monthly donor using [Github Sponsors](https://github.com/sponsors/emeraldonion)!
+
+Other donation methods are available here: [emeraldonion.org/donate](https://emeraldonion.org/donate/)
 
 The Apple Mac Mini discussed here was purchased by Emerald Onion via a direct donation made for the explicit purpose of running bridges, to enhance the Tor network with greater hardware diversity. This wouldn't have been possible without our donors. Thank you!
 
