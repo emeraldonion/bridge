@@ -6,20 +6,22 @@ The bridge shares the same 23.129.64.0/24 subnet as Emerald Onion's exit relays,
 
 Per the [legal FAQ](https://emeraldonion.org/faq/), Emerald Onion does not log network information.
 
-### Current node:
+### Node
 
 See its Metrics page [here](https://metrics.torproject.org/rs.html#details/7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3).
 
 ### Connect
 
+IPv6 with obfs4proxy:
 `obfs4 [2620:18c:0:192::194]:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
 
+IPv4 with obfs4proxy:
 `obfs4 23.129.64.194:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
 
-Without obfs4proxy:
-
+IPv6 without obfs4proxy:
 `[2620:18c:0:192::194]:80 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
 
+IPv4 without obfs4proxy:
 `23.129.64.194:80 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
 
 ### Donate
