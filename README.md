@@ -8,10 +8,10 @@ Per the [legal FAQ](https://emeraldonion.org/faq/), Emerald Onion does not log n
 
 ### Current node:
 
-See its Metrics page [here](https://metrics.torproject.org/rs.html#details/7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3).
+See its Metrics page [here](https://metrics.torproject.org/rs.html#details/09E23FA5AD9CF64DBEFE88A39A2F1EB215E44B53).
 
 ### Connect
 
-obfs4 [2620:18c:0:192::194]:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3
+obfs4 [2620:18c:0:192::194]:443 09E23FA5AD9CF64DBEFE88A39A2F1EB215E44B53
 
-obfs4 23.129.64.194:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3
+obfs4 23.129.64.194:443 09E23FA5AD9CF64DBEFE88A39A2F1EB215E44B53
