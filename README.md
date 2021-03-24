@@ -26,4 +26,6 @@ Without obfs4proxy:
 
 Emerald Onion is 100% volunteer-run, and 100% of donations go to business administration and insurrance, hardware, bandwidth, and co-location. Please consider becoming a monthly donor using [Github Sponsors](https://github.com/sponsors/emeraldonion)! Other donation methods are available here: [emeraldonion.org/donate](https://emeraldonion.org/donate/)
 
+The Apple Mac Mini was purchased by Emerald Onion via a direct donation made for the explicit purpose of running bridges, to enhance the Tor network with greater hardware diversity. Thank you!
+
 Emerald Onion is a U.S. 501(c)(3) nonprofit, tax ID #82-2009438. Contributions are tax deductible as allowed by law.
