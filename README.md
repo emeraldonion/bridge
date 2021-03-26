@@ -38,6 +38,6 @@ The Apple Mac Mini discussed here was purchased by Emerald Onion via a direct do
 
 Emerald Onion is a U.S. 501(c)(3) nonprofit, tax ID #82-2009438. Contributions are tax deductible as allowed by law.
 
-### Node
+### Metrics
 
-See its Metrics page [here](https://metrics.torproject.org/rs.html#details/7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3).
+See Tor Project's Metrics page for the Tor bridge [here](https://metrics.torproject.org/rs.html#details/7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3).
