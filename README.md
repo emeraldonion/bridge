@@ -1,4 +1,4 @@
-# bridges (alpha!)
+# bridges (beta!)
 
 Emerald Onion hosts a public Tor bridge in the Westin datacenter in Seattle, WA with direct peering to the [Seattle Internet Exchange](https://www.seattleix.net/).
 
@@ -8,17 +8,11 @@ Please review Tor Project's documentation on how to use bridges [here](https://t
 
 ### Connect
 
-IPv6 with obfs4proxy:
-`obfs4 [2620:18c:0:192::194]:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
+IPv6
+`[2620:18c:0:192::194]:443 57DA12B8796F41FD460D29A430E80BE65AF5477B`
 
-IPv4 with obfs4proxy:
-`obfs4 23.129.64.194:443 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
-
-IPv6 without obfs4proxy:
-`[2620:18c:0:192::194]:80 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
-
-IPv4 without obfs4proxy:
-`23.129.64.194:80 7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3`
+IPv4
+`23.129.64.194:443 57DA12B8796F41FD460D29A430E80BE65AF5477B`
 
 ### Technical
 
@@ -40,4 +34,4 @@ Emerald Onion is a U.S. 501(c)(3) nonprofit, tax ID #82-2009438. Contributions a
 
 ### Metrics
 
-See Tor Project's Metrics page for the Tor bridge [here](https://metrics.torproject.org/rs.html#details/7ADC8C6BF93197830FDF3E06DFB4D96E7CFEDCF3).
+See Tor Project's Metrics page for the Tor bridge [here](https://metrics.torproject.org/rs.html#details/57DA12B8796F41FD460D29A430E80BE65AF5477B).
