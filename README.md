@@ -1,4 +1,4 @@
-# bridges (beta!)
+# Emerald Onion's Tor Bridge (beta!)
 
 Emerald Onion hosts a public Tor bridge in the Westin datacenter in Seattle, WA with direct peering to the [Seattle Internet Exchange](https://www.seattleix.net/).
 
