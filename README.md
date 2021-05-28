@@ -4,7 +4,7 @@ Emerald Onion hosts a public Tor bridge in the Westin datacenter in Seattle, WA 
 
 ### How to connect?
 
-Please review Tor Project's documentation on how to use bridges [here](https://tb-manual.torproject.org/bridges/).
+Please see Tor Project's documentation on how to use bridges [here](https://tb-manual.torproject.org/bridges/) (see "Entering Bridge Addresses").
 
 ### Connect
 
@@ -16,7 +16,7 @@ IPv4
 
 ### Technical
 
-The bridge shares the same 23.129.64.0/24 subnet as Emerald Onion's [Tor exit relays](https://metrics.torproject.org/rs.html#search/as:396507), so there is no risk of a user entering and exiting our physical network (see "[2.2. Path selection and constraints](https://github.com/torproject/torspec/blob/master/path-spec.txt)"). The bridge runs on a dedicated Apple Mac Mini with [10Gb Ethernet](https://support.apple.com/kb/SP782?locale=en_US) running Ubuntu Server. It was configured using Tor Project's [official bridge documentation](https://community.torproject.org/relay/setup/bridge/debian-ubuntu/).
+The bridge shares the same 23.129.64.0/24 subnet as Emerald Onion's [Tor exit relays](https://metrics.torproject.org/rs.html#search/as:396507), so there is no risk of a user entering and exiting our physical network (see "[2.2. Path selection and constraints](https://github.com/torproject/torspec/blob/master/path-spec.txt)"). The bridge runs on a dedicated Apple Mac Mini with [10Gb Ethernet](https://support.apple.com/kb/SP782?locale=en_US) running Ubuntu Server. It was configured using Tor Project's [official bridge documentation](https://community.torproject.org/relay/setup/bridge/debian-ubuntu/), but we do not offer a Pluggable Transport option.
 
 ### Legal
 
